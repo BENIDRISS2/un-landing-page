@@ -11,7 +11,7 @@ body{
 }
 
 .container{
-    background-color: #982727;
+
     width: 100%;
   
 }
@@ -435,8 +435,8 @@ h1 {
 
 /* Style pour créer une ellipse */
 .ellipse-container {
-  width: 44%;
-  height: 37%;
+  width: 50%;
+  height: 55%;
   border: 3px solid rgb(19, 213, 132);
   border-radius: 50%;
  
@@ -455,16 +455,15 @@ h1 {
 
 
 .course-title {
-  font-size: 15px;
+  font-size: 10px;
   text-align: center;
   font-weight: bold;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .course-text {
-  font-size: 10px;
+  font-size: 9px;
   color: #605f5f;
-  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -684,7 +683,13 @@ h1 {
   
 }
 .sous-end p{
-  font-size: 11px;
+  font-size: 9px;
+}
+.sous-end {
+  font-size: 9px;
+}
+#sous-end p{
+  font-size: 10px;
 }
 .end .sous-end {
 
