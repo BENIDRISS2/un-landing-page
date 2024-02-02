@@ -353,8 +353,9 @@ h1 {
       display: block;
       background-color: #fff;
       color: rgb(34, 34, 34);
-      padding: 30px 5%;
+      padding: 5px 2.5%;
       text-decoration: none;
+      font-size: 9px;
 
 }
 
@@ -434,8 +435,8 @@ h1 {
 
 /* Style pour créer une ellipse */
 .ellipse-container {
-  width: 40%;
-  height: 40%;
+  width: 44%;
+  height: 37%;
   border: 3px solid rgb(19, 213, 132);
   border-radius: 50%;
  
@@ -444,8 +445,8 @@ h1 {
 
 /* Style pour l'image à l'intérieur de l'ellipse */
 .ellipse-image {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 25px;
   
 }
 
